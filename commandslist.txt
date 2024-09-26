@@ -1,146 +1,146 @@
-    1  2024-09-26 12:30:01 sudo -i
-    2  2024-09-26 12:30:01 exit
-    3  2024-09-26 12:30:01 ls -a
-    4  2024-09-26 12:30:01 cd .ssh
-    5  2024-09-26 12:30:01 mkdir .ssh
-    6  2024-09-26 12:30:01 ls -a
-    7  2024-09-26 12:30:01 cd .ssh
-    8  2024-09-26 12:30:01 ls
-    9  2024-09-26 12:30:01 touch authorized_keys
-   10  2024-09-26 12:30:01 vi authorized_keys 
-   11  2024-09-26 12:30:01 cat authorized_keys 
-   12  2024-09-26 12:30:01 exit
-   13  2024-09-26 12:30:01 cd .ssh
-   14  2024-09-26 12:30:01 vi authorized_keys 
-   15  2024-09-26 12:30:01 exit
-   16  2024-09-26 12:30:01 ls -a
-   17  2024-09-26 12:30:01 cd home
-   18  2024-09-26 12:30:01 cd /home/sunny
-   19  2024-09-26 12:30:01 mkdir tasks
-   20  2024-09-26 12:30:01 cd tasks
-   21  2024-09-26 12:30:01 touch file1.txt
-   22  2024-09-26 12:30:01 ls -a
-   23  2024-09-26 12:30:01 nano file1.txt
-   24  2024-09-26 12:30:01 echo "Hi ra" > file1.txt
-   25  2024-09-26 12:30:01 cat file1.txt
-   26  2024-09-26 12:30:01 rm file1.txt\
-   27  2024-09-26 12:30:01 rm file1.txt
-   28  2024-09-26 12:30:01 ls
-   29  2024-09-26 12:30:01 touch file1.txt
-   30  2024-09-26 12:30:01 vi file.txt
-   31  2024-09-26 12:30:01 cat file.txt
-   32  2024-09-26 12:30:01 echo "File ra" > f.txt
-   33  2024-09-26 12:30:01 ls -a
-   34  2024-09-26 12:30:01 tr <file1.txt> "file.txt"
-   35  2024-09-26 12:30:01 tr --help
-   36  2024-09-26 12:30:01 tr ' ' '\n' <file1.txt> "file.txt"
-   37  2024-09-26 12:30:01 cat file.txt
-   38  2024-09-26 12:30:01 cat file1.txt
-   39  2024-09-26 12:30:01 cat f.txt
-   40  2024-09-26 12:30:01 tr ' ' '\n' <f.txt> "file.txt"
-   41  2024-09-26 12:30:01 cat file.txt
-   42  2024-09-26 12:30:01 <f.txt> "fat.txt"
-   43  2024-09-26 12:30:01 ls -a
-   44  2024-09-26 12:30:01 cat fat.txt
-   45  2024-09-26 12:30:01 f.txt
-   46  2024-09-26 12:30:01 cat f.txt
-   47  2024-09-26 12:30:01 ls
-   48  2024-09-26 12:30:01 cd tasks
-   49  2024-09-26 12:30:01 ls 
-   50  2024-09-26 12:30:01 touch script.sh
-   51  2024-09-26 12:30:01 vi script.sh
-   52  2024-09-26 12:30:01 ls
-   53  2024-09-26 12:30:01 ./script.sh
-   54  2024-09-26 12:30:01 chmod +x script.sh
-   55  2024-09-26 12:30:01 ./script.sh
-   56  2024-09-26 12:30:01 cat script.sh
-   57  2024-09-26 12:30:01 vi script.sh
-   58  2024-09-26 12:30:01 ./script.sh
-   59  2024-09-26 12:30:01 ls
-   60  2024-09-26 12:30:01 vi script.sh
-   61  2024-09-26 12:30:01 ./script.sh
-   62  2024-09-26 12:30:01 cat script.sh
-   63  2024-09-26 12:30:01 vi script.sh
-   64  2024-09-26 12:30:01 ./script.sh
-   65  2024-09-26 12:30:01 ls
-   66  2024-09-26 12:30:01 ./script.sh
-   67  2024-09-26 12:30:01 cat newfile.txt
-   68  2024-09-26 12:30:01 vi f.txt
-   69  2024-09-26 12:30:01 ./script.sh
-   70  2024-09-26 12:30:01 cat newfile.txt
-   71  2024-09-26 12:30:01 vi f.txt
-   72  2024-09-26 12:30:01 vi script.sh
-   73  2024-09-26 12:30:01 ./script.sh
-   74  2024-09-26 12:30:01 ls
-   75  2024-09-26 12:30:01 cat s.txt
-   76  2024-09-26 12:30:01 cat newfile.txt
-   77  2024-09-26 12:30:01 vi script.sh
-   78  2024-09-26 12:30:01 ./script.sh
-   79  2024-09-26 12:30:01 vi script.sh
-   80  2024-09-26 12:30:01 ./script.sh
-   81  2024-09-26 12:30:01 vi script.sh
-   82  2024-09-26 12:30:01 ./script.sh
-   83  2024-09-26 12:30:01 cat newfile.txt
-   84  2024-09-26 12:30:01 cat s.txt
-   85  2024-09-26 12:30:01 vi script.sh
-   86  2024-09-26 12:30:01 ./script.sh
-   87  2024-09-26 12:30:01 vi script.sh
-   88  2024-09-26 12:30:01 ./script.sh
-   89  2024-09-26 12:30:01 vi script.sh
-   90  2024-09-26 12:30:01 ./script.sh
-   91  2024-09-26 12:30:01 cd ..
-   92  2024-09-26 12:30:01 touch saving.sh
-   93  2024-09-26 12:30:01 vi saving.sh
-   94  2024-09-26 12:30:01 cat saving.sh
-   95  2024-09-26 12:30:01 ./saving.sh
-   96  2024-09-26 12:30:01 chmod +x saving.sh
-   97  2024-09-26 12:30:01 ./saving.sh
-   98  2024-09-26 12:30:01 ls
-   99  2024-09-26 12:30:01 cat commandslist.txt
-  100  2024-09-26 12:30:01 sudo -i
-  101  2024-09-26 12:30:01 exit
-  102  2024-09-26 12:30:01 su -
-  103  2024-09-26 12:30:01 exi
-  104  2024-09-26 12:30:01 exit
-  105  2024-09-26 12:30:01 exiy
-  106  2024-09-26 12:30:01 exit
-  107  2024-09-26 12:30:01 sudo yum install java-1.8.0-openjdk
-  108  2024-09-26 12:30:01 sudo yum install wget
-  109  2024-09-26 12:30:01 wget https://download.oracle.com/otn-pub/otn_software/db-express/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm?AuthParam=1727077962_07f7926a3ef395a9962e1cc0b0a33f85
-  110  2024-09-26 12:30:01 wget https://download.oracle.com/otn-pub/otn_software/db-express/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
-  111  2024-09-26 12:30:01 ls
-  112  2024-09-26 12:30:01 sudo yum local install oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
-  113  2024-09-26 12:30:01 sudo yum install oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
-  114  2024-09-26 12:30:01 sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
-  115  2024-09-26 12:30:01 wget https://www.oracle.com/database/technologies/oracle21c-linux-downloads.html#license-lightbox
-  116  2024-09-26 12:30:01 ls
-  117  2024-09-26 12:30:01 rm oracle21c-linux-downloads.html
-  118  2024-09-26 12:30:01 ls
-  119  2024-09-26 12:30:01 yum install oracle-database-preinstall-21c
-  120  2024-09-26 12:30:01 dnf install oracle-database-preinstall-21c
-  121  2024-09-26 12:30:01 wget https://yum.oracle.com/repo/OracleLinux/OL8/appstream/x86_64/getPackage/oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
-  122  2024-09-26 12:30:01 ls
-  123  2024-09-26 12:30:01 sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm 
-  124  2024-09-26 12:30:01 wget https://rpmfind.net/linux/almalinux/8.10/AppStream/x86_64/os/Packages/compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
-  125  2024-09-26 12:30:01 ls
-  126  2024-09-26 12:30:01 sudo yum localinstall compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm 
-  127  2024-09-26 12:30:01 sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm 
-  128  2024-09-26 12:30:01 ls
-  129  2024-09-26 12:30:01 sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm 
-  130  2024-09-26 12:30:01 sudo dd if=/dev/zero of=/swapfile bs=1M count=1024
-  131  2024-09-26 12:30:01 free -h
-  132  2024-09-26 12:30:01 sudo chmod 600 /swapfile
-  133  2024-09-26 12:30:01 sudo mkswap /swapfile
-  134  2024-09-26 12:30:01 sudoswapon /swapfile
-  135  2024-09-26 12:30:01 sudo swapon /swapfile
-  136  2024-09-26 12:30:01 free -h
-  137  2024-09-26 12:30:01 sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm 
-  138  2024-09-26 12:30:01 ls
-  139  2024-09-26 12:30:01 sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm 
-  140  2024-09-26 12:30:01 sudo /etc/init.d/oracle-xe-21c configure
-  141  2024-09-26 12:30:01 /opt/oracle/cfgtoollogs/dbca
-  142  2024-09-26 12:30:01 sudo /etc/init.d/oracle-xe-21c configure
-  143  2024-09-26 12:30:01 exit
+    1  2024-09-26 12:35:01 sudo -i
+    2  2024-09-26 12:35:01 exit
+    3  2024-09-26 12:35:01 ls -a
+    4  2024-09-26 12:35:01 cd .ssh
+    5  2024-09-26 12:35:01 mkdir .ssh
+    6  2024-09-26 12:35:01 ls -a
+    7  2024-09-26 12:35:01 cd .ssh
+    8  2024-09-26 12:35:01 ls
+    9  2024-09-26 12:35:01 touch authorized_keys
+   10  2024-09-26 12:35:01 vi authorized_keys 
+   11  2024-09-26 12:35:01 cat authorized_keys 
+   12  2024-09-26 12:35:01 exit
+   13  2024-09-26 12:35:01 cd .ssh
+   14  2024-09-26 12:35:01 vi authorized_keys 
+   15  2024-09-26 12:35:01 exit
+   16  2024-09-26 12:35:01 ls -a
+   17  2024-09-26 12:35:01 cd home
+   18  2024-09-26 12:35:01 cd /home/sunny
+   19  2024-09-26 12:35:01 mkdir tasks
+   20  2024-09-26 12:35:01 cd tasks
+   21  2024-09-26 12:35:01 touch file1.txt
+   22  2024-09-26 12:35:01 ls -a
+   23  2024-09-26 12:35:01 nano file1.txt
+   24  2024-09-26 12:35:01 echo "Hi ra" > file1.txt
+   25  2024-09-26 12:35:01 cat file1.txt
+   26  2024-09-26 12:35:01 rm file1.txt\
+   27  2024-09-26 12:35:01 rm file1.txt
+   28  2024-09-26 12:35:01 ls
+   29  2024-09-26 12:35:01 touch file1.txt
+   30  2024-09-26 12:35:01 vi file.txt
+   31  2024-09-26 12:35:01 cat file.txt
+   32  2024-09-26 12:35:01 echo "File ra" > f.txt
+   33  2024-09-26 12:35:01 ls -a
+   34  2024-09-26 12:35:01 tr <file1.txt> "file.txt"
+   35  2024-09-26 12:35:01 tr --help
+   36  2024-09-26 12:35:01 tr ' ' '\n' <file1.txt> "file.txt"
+   37  2024-09-26 12:35:01 cat file.txt
+   38  2024-09-26 12:35:01 cat file1.txt
+   39  2024-09-26 12:35:01 cat f.txt
+   40  2024-09-26 12:35:01 tr ' ' '\n' <f.txt> "file.txt"
+   41  2024-09-26 12:35:01 cat file.txt
+   42  2024-09-26 12:35:01 <f.txt> "fat.txt"
+   43  2024-09-26 12:35:01 ls -a
+   44  2024-09-26 12:35:01 cat fat.txt
+   45  2024-09-26 12:35:01 f.txt
+   46  2024-09-26 12:35:01 cat f.txt
+   47  2024-09-26 12:35:01 ls
+   48  2024-09-26 12:35:01 cd tasks
+   49  2024-09-26 12:35:01 ls 
+   50  2024-09-26 12:35:01 touch script.sh
+   51  2024-09-26 12:35:01 vi script.sh
+   52  2024-09-26 12:35:01 ls
+   53  2024-09-26 12:35:01 ./script.sh
+   54  2024-09-26 12:35:01 chmod +x script.sh
+   55  2024-09-26 12:35:01 ./script.sh
+   56  2024-09-26 12:35:01 cat script.sh
+   57  2024-09-26 12:35:01 vi script.sh
+   58  2024-09-26 12:35:01 ./script.sh
+   59  2024-09-26 12:35:01 ls
+   60  2024-09-26 12:35:01 vi script.sh
+   61  2024-09-26 12:35:01 ./script.sh
+   62  2024-09-26 12:35:01 cat script.sh
+   63  2024-09-26 12:35:01 vi script.sh
+   64  2024-09-26 12:35:01 ./script.sh
+   65  2024-09-26 12:35:01 ls
+   66  2024-09-26 12:35:01 ./script.sh
+   67  2024-09-26 12:35:01 cat newfile.txt
+   68  2024-09-26 12:35:01 vi f.txt
+   69  2024-09-26 12:35:01 ./script.sh
+   70  2024-09-26 12:35:01 cat newfile.txt
+   71  2024-09-26 12:35:01 vi f.txt
+   72  2024-09-26 12:35:01 vi script.sh
+   73  2024-09-26 12:35:01 ./script.sh
+   74  2024-09-26 12:35:01 ls
+   75  2024-09-26 12:35:01 cat s.txt
+   76  2024-09-26 12:35:01 cat newfile.txt
+   77  2024-09-26 12:35:01 vi script.sh
+   78  2024-09-26 12:35:01 ./script.sh
+   79  2024-09-26 12:35:01 vi script.sh
+   80  2024-09-26 12:35:01 ./script.sh
+   81  2024-09-26 12:35:01 vi script.sh
+   82  2024-09-26 12:35:01 ./script.sh
+   83  2024-09-26 12:35:01 cat newfile.txt
+   84  2024-09-26 12:35:01 cat s.txt
+   85  2024-09-26 12:35:01 vi script.sh
+   86  2024-09-26 12:35:01 ./script.sh
+   87  2024-09-26 12:35:01 vi script.sh
+   88  2024-09-26 12:35:01 ./script.sh
+   89  2024-09-26 12:35:01 vi script.sh
+   90  2024-09-26 12:35:01 ./script.sh
+   91  2024-09-26 12:35:01 cd ..
+   92  2024-09-26 12:35:01 touch saving.sh
+   93  2024-09-26 12:35:01 vi saving.sh
+   94  2024-09-26 12:35:01 cat saving.sh
+   95  2024-09-26 12:35:01 ./saving.sh
+   96  2024-09-26 12:35:01 chmod +x saving.sh
+   97  2024-09-26 12:35:01 ./saving.sh
+   98  2024-09-26 12:35:01 ls
+   99  2024-09-26 12:35:01 cat commandslist.txt
+  100  2024-09-26 12:35:01 sudo -i
+  101  2024-09-26 12:35:01 exit
+  102  2024-09-26 12:35:01 su -
+  103  2024-09-26 12:35:01 exi
+  104  2024-09-26 12:35:01 exit
+  105  2024-09-26 12:35:01 exiy
+  106  2024-09-26 12:35:01 exit
+  107  2024-09-26 12:35:01 sudo yum install java-1.8.0-openjdk
+  108  2024-09-26 12:35:01 sudo yum install wget
+  109  2024-09-26 12:35:01 wget https://download.oracle.com/otn-pub/otn_software/db-express/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm?AuthParam=1727077962_07f7926a3ef395a9962e1cc0b0a33f85
+  110  2024-09-26 12:35:01 wget https://download.oracle.com/otn-pub/otn_software/db-express/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+  111  2024-09-26 12:35:01 ls
+  112  2024-09-26 12:35:01 sudo yum local install oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+  113  2024-09-26 12:35:01 sudo yum install oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+  114  2024-09-26 12:35:01 sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+  115  2024-09-26 12:35:01 wget https://www.oracle.com/database/technologies/oracle21c-linux-downloads.html#license-lightbox
+  116  2024-09-26 12:35:01 ls
+  117  2024-09-26 12:35:01 rm oracle21c-linux-downloads.html
+  118  2024-09-26 12:35:01 ls
+  119  2024-09-26 12:35:01 yum install oracle-database-preinstall-21c
+  120  2024-09-26 12:35:01 dnf install oracle-database-preinstall-21c
+  121  2024-09-26 12:35:01 wget https://yum.oracle.com/repo/OracleLinux/OL8/appstream/x86_64/getPackage/oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+  122  2024-09-26 12:35:01 ls
+  123  2024-09-26 12:35:01 sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm 
+  124  2024-09-26 12:35:01 wget https://rpmfind.net/linux/almalinux/8.10/AppStream/x86_64/os/Packages/compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
+  125  2024-09-26 12:35:01 ls
+  126  2024-09-26 12:35:01 sudo yum localinstall compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm 
+  127  2024-09-26 12:35:01 sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm 
+  128  2024-09-26 12:35:01 ls
+  129  2024-09-26 12:35:01 sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm 
+  130  2024-09-26 12:35:01 sudo dd if=/dev/zero of=/swapfile bs=1M count=1024
+  131  2024-09-26 12:35:01 free -h
+  132  2024-09-26 12:35:01 sudo chmod 600 /swapfile
+  133  2024-09-26 12:35:01 sudo mkswap /swapfile
+  134  2024-09-26 12:35:01 sudoswapon /swapfile
+  135  2024-09-26 12:35:01 sudo swapon /swapfile
+  136  2024-09-26 12:35:01 free -h
+  137  2024-09-26 12:35:01 sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm 
+  138  2024-09-26 12:35:01 ls
+  139  2024-09-26 12:35:01 sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm 
+  140  2024-09-26 12:35:01 sudo /etc/init.d/oracle-xe-21c configure
+  141  2024-09-26 12:35:01 /opt/oracle/cfgtoollogs/dbca
+  142  2024-09-26 12:35:01 sudo /etc/init.d/oracle-xe-21c configure
+  143  2024-09-26 12:35:01 exit
   144  2024-09-24 06:48:31 sudo /etc/init.d/oracle-xe-21c configure
   145  2024-09-24 06:54:05 cd/opt/oracle/product/21c/dbhomeXE
   146  2024-09-24 06:54:10 cd/opt/oracle/product/21c/dbhomeXE/
@@ -161,73 +161,73 @@
   161  2024-09-24 08:02:08 source ~/.bashrc
   162  2024-09-24 08:02:16 history > commandslist.txt
   163  2024-09-24 08:02:21 exit
-  164  2024-09-26 12:30:01 sudo yum install tmux
-  165  2024-09-26 12:30:01 export ORACLE_HOME=/opt/oracle/product/21c/dbhomeXE
-  166  2024-09-26 12:30:01 export ORACLE_SID=XE
-  167  2024-09-26 12:30:01 echo $PATH
-  168  2024-09-26 12:30:01 export PATH =$PATH:/opt/oracle/product/21c/dbhomeXE/bin//
-  169  2024-09-26 12:30:01 echo $PATH
-  170  2024-09-26 12:30:01 export PATH =$PATH:/opt/oracle/product/21c/dbhomeXE/bin/
-  171  2024-09-26 12:30:01 echo $PATH
-  172  2024-09-26 12:30:01 export PATH=$PATH:/opt/oracle/product/21c/dbhomeXE/bin/
-  173  2024-09-26 12:30:01 echo $PATH
-  174  2024-09-26 12:30:01 sqlplus
-  175  2024-09-26 12:30:01 echo $PATH
-  176  2024-09-26 12:30:01 env
-  177  2024-09-26 12:30:01 history
-  178  2024-09-26 12:30:01 export ORACLE_HOME=/opt/oracle/product/21c/dbhomeXE
-  179  2024-09-26 12:30:01 export ORACLE_SID=XE
-  180  2024-09-26 12:30:01 export PATH=$PATH:/opt/oracle/product/21c/dbhomeXE/bin/
-  181  2024-09-26 12:30:01 echo $PATH
-  182  2024-09-26 12:30:01 sqlplus
-  183  2024-09-26 12:30:01 env
-  184  2024-09-26 12:30:01 lsnrctl status
-  185  2024-09-26 12:30:01 lsnrctl start
-  186  2024-09-26 12:30:01 sqlplus
-  187  2024-09-26 12:30:01 ls
-  188  2024-09-26 12:30:01 ls -ah
-  189  2024-09-26 12:30:01 vi .bash_profile
-  190  2024-09-26 12:30:01 source ~/.bash_profile
-  191  2024-09-26 12:30:01 sqlplus
-  192  2024-09-26 12:30:01 sqlplu
-  193  2024-09-26 12:30:01 sqlplus
-  194  2024-09-26 12:30:01 lsnrctl status
-  195  2024-09-26 12:30:01 lsnrctl start
-  196  2024-09-26 12:30:01 sqlplus
-  197  2024-09-26 12:30:01 echo $PATH
-  198  2024-09-26 12:30:01 sudo lsnrctl start
-  199  2024-09-26 12:30:01 ps -ef | grep tnslsnr
-  200  2024-09-26 12:30:01 sudo lsnrctl start
-  201  2024-09-26 12:30:01 source ~/.bashrc
-  202  2024-09-26 12:30:01 sqlplus sys as sysdba
-  203  2024-09-26 12:30:01 sudo bash
-  204  2024-09-26 12:30:01 ls
-  205  2024-09-26 12:30:01 cd /opt/oracle/product/21c/dbhomeXE/bin
-  206  2024-09-26 12:30:01 cd 
-  207  2024-09-26 12:30:01 sqlplus
-  208  2024-09-26 12:30:01 cd /opt/oracle/product/21c/dbhomeXE/bin
-  209  2024-09-26 12:30:01 imp classicmodels/classicmodels FILE=/home/ec2-user/classicmodels.dmp log=/home/ec2-user/import.log FULL=Y
-  210  2024-09-26 12:30:01 sudo bash
-  211  2024-09-26 12:30:01 ls
-  212  2024-09-26 12:30:01 imp classicmodels/classicmodels FILE=/home/sunny/classicmodels.dmp log=/home/ec2-user/import.log FULL=Y
-  213  2024-09-26 12:30:01 imp classicmodels/classicmodels FILE=/home/sunny/classicmodels.dmp log=/home/sunny/import.log FULL=Y
-  214  2024-09-26 12:30:01 sqlplus
-  215  2024-09-26 12:30:01 imp classicmodels/classicmodels FILE=/home/sunny/classicmodels.dmp log=/home/sunny/import.log FULL=Y
-  216  2024-09-26 12:30:01 history
-  217  2024-09-26 12:30:01 sudo bash
-  218  2024-09-26 12:30:01 history
-  219  2024-09-26 12:30:01 git clone https://github.com/sunny302001/training-biz-sathwik.git
-  220  2024-09-26 12:30:01 sudo yum install git
-  221  2024-09-26 12:30:01 git clone https://github.com/sunny302001/training-biz-sathwik.git
-  222  2024-09-26 12:30:01 ll
-  223  2024-09-26 12:30:01 ls
-  224  2024-09-26 12:30:01 cd training-biz-sathwik
-  225  2024-09-26 12:30:01 ls
-  226  2024-09-26 12:30:01 ls -ah
-  227  2024-09-26 12:30:01 cd
-  228  2024-09-26 12:30:01 touch auto_commit.sh
-  229  2024-09-26 12:30:01 vi auto_commit.sh
-  230  2024-09-26 12:30:01 git add /home/sunny/commandslist.txt
-  231  2024-09-26 12:30:01 cd /home/sunny/training-biz-sathwik
-  232  2024-09-26 12:30:01 git add /home/sunny/commandslist.txt
-  233  2024-09-26 12:30:01 cd
+  164  2024-09-26 12:35:01 sudo yum install tmux
+  165  2024-09-26 12:35:01 export ORACLE_HOME=/opt/oracle/product/21c/dbhomeXE
+  166  2024-09-26 12:35:01 export ORACLE_SID=XE
+  167  2024-09-26 12:35:01 echo $PATH
+  168  2024-09-26 12:35:01 export PATH =$PATH:/opt/oracle/product/21c/dbhomeXE/bin//
+  169  2024-09-26 12:35:01 echo $PATH
+  170  2024-09-26 12:35:01 export PATH =$PATH:/opt/oracle/product/21c/dbhomeXE/bin/
+  171  2024-09-26 12:35:01 echo $PATH
+  172  2024-09-26 12:35:01 export PATH=$PATH:/opt/oracle/product/21c/dbhomeXE/bin/
+  173  2024-09-26 12:35:01 echo $PATH
+  174  2024-09-26 12:35:01 sqlplus
+  175  2024-09-26 12:35:01 echo $PATH
+  176  2024-09-26 12:35:01 env
+  177  2024-09-26 12:35:01 history
+  178  2024-09-26 12:35:01 export ORACLE_HOME=/opt/oracle/product/21c/dbhomeXE
+  179  2024-09-26 12:35:01 export ORACLE_SID=XE
+  180  2024-09-26 12:35:01 export PATH=$PATH:/opt/oracle/product/21c/dbhomeXE/bin/
+  181  2024-09-26 12:35:01 echo $PATH
+  182  2024-09-26 12:35:01 sqlplus
+  183  2024-09-26 12:35:01 env
+  184  2024-09-26 12:35:01 lsnrctl status
+  185  2024-09-26 12:35:01 lsnrctl start
+  186  2024-09-26 12:35:01 sqlplus
+  187  2024-09-26 12:35:01 ls
+  188  2024-09-26 12:35:01 ls -ah
+  189  2024-09-26 12:35:01 vi .bash_profile
+  190  2024-09-26 12:35:01 source ~/.bash_profile
+  191  2024-09-26 12:35:01 sqlplus
+  192  2024-09-26 12:35:01 sqlplu
+  193  2024-09-26 12:35:01 sqlplus
+  194  2024-09-26 12:35:01 lsnrctl status
+  195  2024-09-26 12:35:01 lsnrctl start
+  196  2024-09-26 12:35:01 sqlplus
+  197  2024-09-26 12:35:01 echo $PATH
+  198  2024-09-26 12:35:01 sudo lsnrctl start
+  199  2024-09-26 12:35:01 ps -ef | grep tnslsnr
+  200  2024-09-26 12:35:01 sudo lsnrctl start
+  201  2024-09-26 12:35:01 source ~/.bashrc
+  202  2024-09-26 12:35:01 sqlplus sys as sysdba
+  203  2024-09-26 12:35:01 sudo bash
+  204  2024-09-26 12:35:01 ls
+  205  2024-09-26 12:35:01 cd /opt/oracle/product/21c/dbhomeXE/bin
+  206  2024-09-26 12:35:01 cd 
+  207  2024-09-26 12:35:01 sqlplus
+  208  2024-09-26 12:35:01 cd /opt/oracle/product/21c/dbhomeXE/bin
+  209  2024-09-26 12:35:01 imp classicmodels/classicmodels FILE=/home/ec2-user/classicmodels.dmp log=/home/ec2-user/import.log FULL=Y
+  210  2024-09-26 12:35:01 sudo bash
+  211  2024-09-26 12:35:01 ls
+  212  2024-09-26 12:35:01 imp classicmodels/classicmodels FILE=/home/sunny/classicmodels.dmp log=/home/ec2-user/import.log FULL=Y
+  213  2024-09-26 12:35:01 imp classicmodels/classicmodels FILE=/home/sunny/classicmodels.dmp log=/home/sunny/import.log FULL=Y
+  214  2024-09-26 12:35:01 sqlplus
+  215  2024-09-26 12:35:01 imp classicmodels/classicmodels FILE=/home/sunny/classicmodels.dmp log=/home/sunny/import.log FULL=Y
+  216  2024-09-26 12:35:01 history
+  217  2024-09-26 12:35:01 sudo bash
+  218  2024-09-26 12:35:01 history
+  219  2024-09-26 12:35:01 git clone https://github.com/sunny302001/training-biz-sathwik.git
+  220  2024-09-26 12:35:01 sudo yum install git
+  221  2024-09-26 12:35:01 git clone https://github.com/sunny302001/training-biz-sathwik.git
+  222  2024-09-26 12:35:01 ll
+  223  2024-09-26 12:35:01 ls
+  224  2024-09-26 12:35:01 cd training-biz-sathwik
+  225  2024-09-26 12:35:01 ls
+  226  2024-09-26 12:35:01 ls -ah
+  227  2024-09-26 12:35:01 cd
+  228  2024-09-26 12:35:01 touch auto_commit.sh
+  229  2024-09-26 12:35:01 vi auto_commit.sh
+  230  2024-09-26 12:35:01 git add /home/sunny/commandslist.txt
+  231  2024-09-26 12:35:01 cd /home/sunny/training-biz-sathwik
+  232  2024-09-26 12:35:01 git add /home/sunny/commandslist.txt
+  233  2024-09-26 12:35:01 cd
